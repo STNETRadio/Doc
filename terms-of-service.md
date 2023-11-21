@@ -67,4 +67,4 @@ To the maximum extent permitted by law, we shall not be liable for any direct, i
 If you have any questions or concerns about these Terms, please contact us at:
 
 STNET Radio  
-Email: [contact@stnetradio.co]
+Email: contact@stnetradio.co
