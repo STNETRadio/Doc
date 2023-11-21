@@ -20,16 +20,10 @@ layout:
 
 # DO YOU NEED HELP?
 
-{% hint style="danger" %}
-THIS WEBSITE IS NOT COMPLETE. CURRENTLY ONLY SUPPORTS EMAIL AND [X.COM](x.com) ONLY.
-{% endhint %}
-
-***
-
 ### If you to ask or help please contact:
 
 1. Team STNET Radio
-   1. Email: [support@stnetradio.online](mailto:support@stnetradio.online)
+   1. Email: [support@stnetradio.online](mailto:support@stnetradio.co)
    2. X (Formerly Twitter): [@TeamSTNETRadio](https://x.com/teamstnetradio)
 2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
 3. STNET Radio Podcast
