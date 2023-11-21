@@ -62,9 +62,9 @@ Our services are provided "as is" without warranties of any kind, whether expres
 
 To the maximum extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of our services.
 
-### 11. **Contact Information**
+### 11.Contact Us
+If you have any questions or concerns about this Privacy Policy or your personal information, please contact us at [support@stnetradio.co](mailto:support@stnetradio.co).
 
-If you have any questions or concerns about these Terms, please contact us at:
+*November 20, 2023*
 
-STNET Radio  
-Email: contact@stnetradio.co
+**STNET Radio**
