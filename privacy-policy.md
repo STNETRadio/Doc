@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/DC8E7ED7-6422-42FC-BAF3-FDC47BE05713.png
+cover: ../.gitbook/assets/DC8E7ED7-6422-42FC-BAF3-FDC47BE05713.png
 coverY: 0
 layout:
   cover:
@@ -10,9 +10,9 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
-  outline:
     visible: false
+  outline:
+    visible: true
   pagination:
     visible: false
 ---
