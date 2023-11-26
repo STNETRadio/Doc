@@ -18,7 +18,7 @@ layout:
 ---
 
 # Terms of Service
-Effective Date: November 20, 2023
+*Effective Date: November 20, 2023*
 
 Welcome to STNET Radio! These Terms of Service ("Terms") govern your use of our website, services, and content. By accessing or using our services, you agree to these Terms. If you do not agree, please refrain from using our services.
 
@@ -40,7 +40,7 @@ All content and materials available on our website are protected by intellectual
 
 ### 5. **Privacy**
 
-Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy.
+Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [click here](docs.stnetradio.co/privacy-policy "Our Privacy Policy").
 
 ### 6. **Payment and Billing**
 

@@ -17,42 +17,14 @@ layout:
     visible: false
 ---
 
-# Welcome to STNET Radio Docs
+# Welcome to STNET Radio Docs.
 
-This Github repostitory is linked with Gitbook Service. You can also edit Docs Webpage in this github and gitbook.
+This is a document from STNET Radio where we explain, how to operate, troubleshoot, etc. here. For regular customers, you can read the article for you at [Team STNET Radio]'s website(support.stnetradio.co).
 
-# Setup
-  Open Terminal on your commputer and Type following:
-```
-git clone https://github.com/STNETRadio/Doc.git
-```
-Then,
-```
-cd doc
-code .
-```
-Your computer will open VSCode
+## What are STNET Radio Docs?
+STNET Radio Docs is one of the services from STNET Radio created to solve various problems. without having to contact expert staff to waste time There will be information for employees in various areas. on our website
 
-# Push to Docs's Repostitory
-  Open Terminal on your comtuter. Then, code:
-  ```
-  git add .
-  git commit -m "[Summary]"
-  git push
-  ```
-  or
-  ```
-  git add .
-  git commit -m initial
-  git push
-  ```
+## How is STNET Radio Docs different from STNET Radio Support?
+STNET Radio Docs is primarily a document for our employees and customers, but STNET Radio Support contains information about issues within our website or services. It will be created for general users.
 
-  *If error code `git pull` and try again
-
-# Edit on GitBook
-1. open [app.gitbook.com](app.gitbook.com "GitBook workspeace Page"). Then, click Sign in with SSO
-2. Click STNET Radio Documentary
-3. Click Edit
-
-
-If you want to contact for help, Please contact: @TeamSTNETRadio on GitHub or [team@stnetradio.co](team@stnetradio.co "Team STNET Radio Email"). For eneral users, Please contact: [@TeamSTNETRadio on X (Formly Twitter)](x.com/teamstnetradio "Team STNET Radio on X")
+If you have additional questions about the work Please contact us as soon as possible.
