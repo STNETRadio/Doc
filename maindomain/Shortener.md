@@ -38,4 +38,3 @@ You can request free use of internal links for collaboration with us at [@TeamST
 {% hint style="danger" %}
 To use other subdomains, please use according to the employee manual.
 {% endhint %}
-
