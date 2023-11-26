@@ -22,6 +22,11 @@ layout:
 
 ***
 
+## For general users
+
+You can request free use of internal links for collaboration with us at [@TeamSTNETRadio](https://x.com/TeamSTNETRadio) on X or [team@stnetradio.co](mailto:team@stnetradio.co) 24/7. If you need a subdomain for yourself, please contact [sales@stnetradio.co](mailto://sales@stnetradio.co). Specify the subject: Use Subdomain for shorten link.
+
+***
 ## For employees of STNET Radio
 
 1. Log in to the [GoDaddy](https://dcc.godaddy.com) service.
@@ -34,8 +39,3 @@ layout:
 To use other subdomains, please use according to the employee manual.
 {% endhint %}
 
-***
-
-## For general users
-
-You can request free use of internal links for collaboration with us at [@TeamSTNETRadio](https://x.com/TeamSTNETRadio) on X or [team@stnetradio.co](mailto:team@stnetradio.co) 24/7. If you need a subdomain for yourself, please contact [sales@stnetradio.co](mailto://sales@stnetradio.co). Specify the subject: Use Subdomain for shorten link.
