@@ -1,5 +1,5 @@
 ---
-description: Hello! This is Team STNET Radio.
+description: Tips for using our link shortener
 cover: ../.gitbook/assets/SNR-Banner.png
 coverY: 0
 layout:
@@ -18,14 +18,44 @@ layout:
     visible: false
 ---
 
-# DO YOU NEED HELP?
+# Welcome to STNET Radio Docs
 
-### If you to ask or help please contact:
+This Github repostitory is linked with Gitbook Service. You can also edit Docs Webpage in this github and gitbook.
 
-1. Team STNET Radio
-   1. Email: [support@stnetradio.online](mailto:support@stnetradio.co)
-   2. X (Formerly Twitter): [@TeamSTNETRadio](https://x.com/teamstnetradio)
-2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
-3. STNET Radio Podcast
-   1. TMSA (เล่าเรื่องเก่ง): [tmsa@stnetradio.online](mailto:tmsa@stnetradio.online)
-   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto:tidkab@stnetradio.online)
+### If you to are a STNET Radio Employees
+
+# Setup
+  Open Terminal on your commputer and Type following:
+```
+git clone https://github.com/STNETRadio/Doc.git
+```
+Then,
+```
+cd doc
+code .
+```
+Your computer will open VSCode
+
+# Push to Docs's Repostitory
+  Open Terminal on your comtuter. Then, code:
+  ```
+  git add .
+  git commit -m "[Summary]"
+  git push
+  ```
+  or
+  ```
+  git add .
+  git commit -m initial
+  git push
+  ```
+
+  *If error code `git pull` and try again
+
+# Edit on GitBook
+1. open [app.gitbook.com](app.gitbook.com "GitBook workspeace Page"). Then, click Sign in with SSO
+2. Click STNET Radio Documentary
+3. Click Edit
+
+
+If you want to contact for help, Please contact: @TeamSTNETRadio on GitHub or [team@stnetradio.co](team@stnetradio.co "Team STNET Radio Email"). For eneral users, Please contact: [@TeamSTNETRadio on X (Formly Twitter)](x.com/teamstnetradio "Team STNET Radio on X")
