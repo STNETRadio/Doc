@@ -1,5 +1,4 @@
 ---
-description: Tips for using our link shortener
 cover: ../.gitbook/assets/SNR-Banner.png
 coverY: 0
 layout:
@@ -21,8 +20,6 @@ layout:
 # Welcome to STNET Radio Docs
 
 This Github repostitory is linked with Gitbook Service. You can also edit Docs Webpage in this github and gitbook.
-
-### If you to are a STNET Radio Employees
 
 # Setup
   Open Terminal on your commputer and Type following:
