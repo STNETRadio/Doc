@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to STNET Radio Doc](README.md)
+* [Welcome to STNET Radio Doc](welcome.md)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
 

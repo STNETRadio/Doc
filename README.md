@@ -1,31 +1,42 @@
----
-description: Hello! This is Team STNET Radio.
-cover: ../.gitbook/assets/SNR-Banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
+![STNET Radio Banner](.gitbook/assets/SNR-Banner.png "STNET Radio Banner")
+# Welcome to STNET Radio Docs on Github
 
-# DO YOU NEED HELP?
+This Github repostitory is linked with Gitbook Service. You can also edit Docs Webpage in this github and gitbook.
 
-### If you to ask or help please contact:
+### If you to are a STNET Radio Employees
 
-1. Team STNET Radio
-   1. Email: [support@stnetradio.online](mailto:support@stnetradio.co)
-   2. X (Formerly Twitter): [@TeamSTNETRadio](https://x.com/teamstnetradio)
-2. STNET Radio HR Team: [hr@stnetradio.co](mailto:hr@stnetradio.co)
-3. STNET Radio Podcast
-   1. TMSA (เล่าเรื่องเก่ง): [tmsa@stnetradio.online](mailto:tmsa@stnetradio.online)
-   2. Tidkab (ติดกับเรื่องราว): [tidkab@stnetradio.online](mailto:tidkab@stnetradio.online)
+# Setup
+  Open Terminal on your commputer and Type following:
+```
+git clone https://github.com/STNETRadio/Doc.git
+```
+Then,
+```
+cd doc
+code .
+```
+Your computer will open VSCode
+
+# Push to Docs's Repostitory
+  Open Terminal on your comtuter. Then, code:
+  ```
+  git add .
+  git commit -m "[Summary]"
+  git push
+  ```
+  or
+  ```
+  git add .
+  git commit -m initial
+  git push
+  ```
+
+  *If error code `git pull` and try again
+
+# Edit on GitBook
+1. open [app.gitbook.com](app.gitbook.com "GitBook workspeace Page")
+2. Click STNET Radio Documentary
+3. Click Edit
+
+
+If you want to contact for help, Please contact: @TeamSTNETRadio on GitHub or [team@stnetradio.co](team@stnetradio.co "Team STNET Radio Email"). For eneral users, Please contact: [@TeamSTNETRadio on X (Formly Twitter)](x.com/teamstnetradio "Team STNET Radio on X")
