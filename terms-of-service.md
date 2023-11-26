@@ -40,7 +40,7 @@ All content and materials available on our website are protected by intellectual
 
 ### 5. **Privacy**
 
-Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [click here](docs.stnetradio.co/privacy-policy "Our Privacy Policy").
+Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [click here](https://docs.stnetradio.co/privacy-policy "Our Privacy Policy").
 
 ### 6. **Payment and Billing**
 

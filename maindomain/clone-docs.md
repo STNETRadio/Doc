@@ -50,9 +50,9 @@ Your computer will open VSCode
   *If error code `git pull` and try again
 
 # Edit on GitBook
-1. open [app.gitbook.com](app.gitbook.com "GitBook workspeace Page"). Then, click Sign in with SSO
+1. open [app.gitbook.com](https://app.gitbook.com "GitBook workspeace Page"). Then, click Sign in with SSO
 2. Click STNET Radio Documentary
 3. Click Edit
 
 
-If you want to contact for help, Please contact: @TeamSTNETRadio on GitHub or [team@stnetradio.co](team@stnetradio.co "Team STNET Radio Email"). For eneral users, Please contact: [@TeamSTNETRadio on X (Formly Twitter)](x.com/teamstnetradio "Team STNET Radio on X")
+If you want to contact for help, Please contact: @TeamSTNETRadio on GitHub or [team@stnetradio.co](team@stnetradio.co "Team STNET Radio Email"). For eneral users, Please contact: [@TeamSTNETRadio on X (Formly Twitter)](https://x.com/teamstnetradio "Team STNET Radio on X")
