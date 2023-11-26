@@ -1,8 +1,10 @@
 # Table of contents
 
-* [Welcome to STNET Radio Doc](welcome.md)
+* [Welcome to STNET Radio Doc](README.md)
+* [README](<README (1).md>)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
 
-## Use stnetradio.co Domain for work <a href="#use-stnetradioco-domain-for-work" id="usedomain">
-* [Use l.stnetradio.co for Link Shortener](/maindomain/Shortener.md)
+## Use stnetradio.co Domain for work <a href="#usedomain" id="usedomain"></a>
+
+* [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
