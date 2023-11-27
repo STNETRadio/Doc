@@ -6,5 +6,5 @@
 
 ## Use stnetradio.co Domain for work <a href="#usedomain" id="usedomain"></a>
 
-* [How to edit Webpage on Github](maindomain/github-edit.md)
+* [How to edit Webpage on Github Via VSCode](maindomain/github-edit.md)
 * [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
