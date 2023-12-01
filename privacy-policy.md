@@ -17,55 +17,55 @@ layout:
     visible: false
 ---
 
-# Privacy Policy
+# PRIVACY POLICY
 
-*Last Updated: November 20, 2023*
+*LAST UPDATED: NOVEMBER 20, 2023*
 
-STNET Radio ("we," "us," or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy outlines the types of information we collect, how we use and protect that information, and your choices regarding your personal data.
+STNET RADIO ("WE," "US," OR "OUR") IS COMMITTED TO PROTECTING THE PRIVACY AND SECURITY OF YOUR PERSONAL INFORMATION. THIS PRIVACY POLICY OUTLINES THE TYPES OF INFORMATION WE COLLECT, HOW WE USE AND PROTECT THAT INFORMATION, AND YOUR CHOICES REGARDING YOUR PERSONAL DATA.
 
-### 1. Information We Collect
-  * Name
-  * Address
-  * Phone number
-  * Credit card number
-  * Personal information submitted during job applications
+### 1. INFORMATION WE COLLECT
+  * NAME
+  * ADDRESS
+  * PHONE NUMBER
+  * CREDIT CARD NUMBER
+  * PERSONAL INFORMATION SUBMITTED DURING JOB APPLICATIONS
 
-### 2. How We Collect Information
-We may collect information directly from you when you interact with our website, services, or apply for a job with us. We may also collect information automatically through the use of cookies and other tracking technologies.
+### 2. HOW WE COLLECT INFORMATION
+WE MAY COLLECT INFORMATION DIRECTLY FROM YOU WHEN YOU INTERACT WITH OUR WEBSITE, SERVICES, OR APPLY FOR A JOB WITH US. WE MAY ALSO COLLECT INFORMATION AUTOMATICALLY THROUGH THE USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES.
 
-### 3. Use of Information
-We use the collected information for the following purposes:
-  * To process transactions and provide requested services.
-  * To communicate with you, respond to your inquiries, and provide customer support.
-  * To evaluate and process job applications.
-  * To improve our products and services.
+### 3. USE OF INFORMATION
+WE USE THE COLLECTED INFORMATION FOR THE FOLLOWING PURPOSES:
+  * TO PROCESS TRANSACTIONS AND PROVIDE REQUESTED SERVICES.
+  * TO COMMUNICATE WITH YOU, RESPOND TO YOUR INQUIRIES, AND PROVIDE CUSTOMER SUPPORT.
+  * TO EVALUATE AND PROCESS JOB APPLICATIONS.
+  * TO IMPROVE OUR PRODUCTS AND SERVICES.
 
-### 4. Storage of Information
-All collected information will be stored securely in the cloud. We implement appropriate technical and organizational measures to safeguard your data.
+### 4. STORAGE OF INFORMATION
+ALL COLLECTED INFORMATION WILL BE STORED SECURELY IN THE CLOUD. WE IMPLEMENT APPROPRIATE TECHNICAL AND ORGANIZATIONAL MEASURES TO SAFEGUARD YOUR DATA.
 
-### 5. Data Retention
-Your information will be retained for a period of 45 days after termination of the relevant service or job application. After this period, the data will be securely deleted.
+### 5. DATA RETENTION
+YOUR INFORMATION WILL BE RETAINED FOR A PERIOD OF 45 DAYS AFTER TERMINATION OF THE RELEVANT SERVICE OR JOB APPLICATION. AFTER THIS PERIOD, THE DATA WILL BE SECURELY DELETED.
 
-### 6. Information Sharing
-We do not sell, trade, or otherwise transfer your personal information to external companies or third parties without your consent, except as required by law.
+### 6. INFORMATION SHARING
+WE DO NOT SELL, TRADE, OR OTHERWISE TRANSFER YOUR PERSONAL INFORMATION TO EXTERNAL COMPANIES OR THIRD PARTIES WITHOUT YOUR CONSENT, EXCEPT AS REQUIRED BY LAW.
 
-### 7. Your Choices
-You have the right to:
-  * Access your personal information.
-  * Correct any inaccuracies in your personal information.
-  * Request the deletion of your personal information, subject to applicable legal requirements.
+### 7. YOUR CHOICES
+YOU HAVE THE RIGHT TO:
+  * ACCESS YOUR PERSONAL INFORMATION.
+  * CORRECT ANY INACCURACIES IN YOUR PERSONAL INFORMATION.
+  * REQUEST THE DELETION OF YOUR PERSONAL INFORMATION, SUBJECT TO APPLICABLE LEGAL REQUIREMENTS.
 
-### 8. Security
-We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction. However, no method of transmission over the internet or electronic storage is completely secure.
+### 8. SECURITY
+WE TAKE REASONABLE MEASURES TO PROTECT YOUR PERSONAL INFORMATION FROM UNAUTHORIZED ACCESS, DISCLOSURE, ALTERATION, AND DESTRUCTION. HOWEVER, NO METHOD OF TRANSMISSION OVER THE INTERNET OR ELECTRONIC STORAGE IS COMPLETELY SECURE.
 
-### 9. Updates to Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be effective immediately upon posting the revised policy on our website.
+### 9. UPDATES TO PRIVACY POLICY
+WE MAY UPDATE THIS PRIVACY POLICY FROM TIME TO TIME. ANY CHANGES WILL BE EFFECTIVE IMMEDIATELY UPON POSTING THE REVISED POLICY ON OUR WEBSITE.
 
-### 10. Contact Us
-If you have any questions or concerns about this Privacy Policy or your personal information, please contact us at [support@stnetradio.co](mailto:support@stnetradio.co).
+### 10. CONTACT US
+IF YOU HAVE ANY QUESTIONS OR CONCERNS ABOUT THIS PRIVACY POLICY OR YOUR PERSONAL INFORMATION, PLEASE CONTACT US AT [LEGAL@STNETRADIO.CO](MAILTO:LEGAL@STNETRADIO.CO).
 
-By using our services or providing us with your information, you agree to the terms of this Privacy Policy.
+BY USING OUR SERVICES OR PROVIDING US WITH YOUR INFORMATION, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY.
 
-*November 20, 2023*
+*NOVEMBER 20, 2023*
 
-**STNET Radio**
+**STNET RADIO**
