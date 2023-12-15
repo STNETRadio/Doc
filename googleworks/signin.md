@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Working with Google Workspace Operations
+# Understanding Google Workspace Operations
 
 To ensure convenient and highly efficient use of Google Workspace for employees and partners using the stnetradio.co domain, please follow the steps below:
 
@@ -32,9 +32,9 @@ To ensure convenient and highly efficient use of Google Workspace for employees 
 6. Enter your new password
 7. Click "Next"
 8. Choose a two-step verification method by selecting one of the following options:
-   - Through mobile phone (OTP)
-   - Through the app
-   - Through the PassKey system (recommended), compatible with iOS 16+, iPadOS 16+, MacOS 13+, and Android 9+
+   * Through mobile phone (OTP)
+   * Through the app
+   * Through the PassKey system (recommended), compatible with iOS 16+, iPadOS 16+, MacOS 13+, and Android 9+
 9. Click "Next"
 10. Enter the confirmation code or scan the QR code
 11. Complete the process
@@ -47,4 +47,4 @@ To ensure convenient and highly efficient use of Google Workspace for employees 
 4. Enter your password
 5. Click "Sign In"
 
-If you forget your password, please contact the support team via email at [team@stnetradio.co] (mailto:team@stnetradio.co) to request a backup password for the security of your data. Please refer to the guidelines [here](https://docs.stnetradio.co/googleworks) for more information.
+If you forget your password, please contact the support team via email at \[team@stnetradio.co] (mailto:team@stnetradio.co) to request a backup password for the security of your data. Please refer to the guidelines [here](reset.md) for more information.
