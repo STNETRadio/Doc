@@ -11,4 +11,4 @@
 
 ## Operations through Google Workspace <a href="#googleworks" id="googleworks">
 * [Understanding Google Workspace Operations](googleworks/Signin.md)
-* [Requesting a New Password to Access Google Workspace](GoogleWorks/reset.md)
+* [Requesting a New Password to Access Google Workspace](googleworks/reset.md)
