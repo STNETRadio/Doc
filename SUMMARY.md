@@ -10,5 +10,5 @@
 * [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
 
 ## Operations through Google Workspace <a href="#googleworks" id="googleworks">
-* [Understanding Google Workspace Operations](googleworks/Signin.md)
+* [Understanding Google Workspace Operations](googleworks/signin.md)
 * [Requesting a New Password to Access Google Workspace](googleworks/reset.md)
