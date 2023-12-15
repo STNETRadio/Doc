@@ -1,11 +1,5 @@
 ---
 description: Tips for using our link shortener
-cover: ../.gitbook/assets/SNR-Banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
