@@ -1,5 +1,6 @@
 ---
 description: Tips for using our link shortener
+layout:
   title:
     visible: true
   description:

@@ -1,4 +1,5 @@
 ---
+layout:
   title:
     visible: true
   description:

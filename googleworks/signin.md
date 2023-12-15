@@ -1,5 +1,6 @@
 ---
 description: Working with Google Workspace
+layout:
   title:
     visible: true
   description:
