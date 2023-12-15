@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Understanding Google Workspace Operations
+# How to use Google Workspace
 
 To ensure convenient and highly efficient use of Google Workspace for employees and partners using the stnetradio.co domain, please follow the steps below:
 
@@ -47,4 +47,4 @@ To ensure convenient and highly efficient use of Google Workspace for employees 
 4. Enter your password
 5. Click "Sign In"
 
-If you forget your password, please contact the support team via email at \[team@stnetradio.co] (mailto:team@stnetradio.co) to request a backup password for the security of your data. Please refer to the guidelines [here](reset.md) for more information.
+If you forget your password, please contact the support team via email at [team@stnetradio.co](mailto:team@stnetradio.co) to request a backup password for the security of your data. Please refer to the guidelines [here](reset.md) for more information.
