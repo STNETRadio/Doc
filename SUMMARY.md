@@ -4,9 +4,8 @@
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
 
-## Use stnetradio.co Domain for work <a href="#usedomain" id="usedomain"></a>
+## Working on the stnetradio.co website <a href="#maindomain" id="maindomain"></a>
 
-* [How to edit Webpage on Github Via VSCode](maindomain/github-edit.md)
 * [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
 
 ## Operations through Google Workspace <a href="#googleworks" id="googleworks">
