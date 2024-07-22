@@ -12,54 +12,87 @@ layout:
     visible: false
 ---
 
-# TERMS OF SERVICE
-*EFFECTIVE DATE: NOVEMBER 20, 2023*
+# Terms of Service
+*Effective Date: July 22, 2024*
 
-WELCOME TO STNET RADIO! THESE TERMS OF SERVICE ("TERMS") GOVERN YOUR USE OF OUR WEBSITE, SERVICES, AND CONTENT. BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO THESE TERMS. IF YOU DO NOT AGREE, PLEASE REFRAIN FROM USING OUR SERVICES.
+Welcome to STNET RADIO! These Terms of Service ("Terms") govern your use of our website, services, and content, including our RE:WRITE eBook distribution service. By accessing or using our services, you agree to these Terms. If you do not agree, please refrain from using our services.
 
-### 1. **ACCEPTANCE OF TERMS**
+### 1. Acceptance of Terms
 
-BY ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE WITH ANY PART OF THE TERMS, YOU MAY NOT USE OUR SERVICES.
+By accessing or using our services, you agree to be bound by these Terms. If you do not agree with any part of the Terms, you may not use our services.
 
-### 2. **USE OF SERVICES**
+### 2. Use of Services
 
-YOU AGREE TO USE OUR SERVICES FOR LAWFUL PURPOSES ONLY. YOU MUST NOT MISUSE OUR SERVICES, VIOLATE ANY LAWS, OR INFRINGE ON THE RIGHTS OF OTHERS.
+You agree to use our services for lawful purposes only. You must not misuse our services, violate any laws, or infringe on the rights of others.
 
-### 3. **USER ACCOUNTS**
+### 3. User Accounts
 
-TO ACCESS CERTAIN FEATURES, YOU MAY NEED TO CREATE A USER ACCOUNT. YOU ARE RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF YOUR ACCOUNT CREDENTIALS AND FOR ALL ACTIVITIES THAT OCCUR UNDER YOUR ACCOUNT.
+To access certain features, you may need to create a user account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
 
-### 4. **INTELLECTUAL PROPERTY**
+### 4. Intellectual Property
 
-ALL CONTENT AND MATERIALS AVAILABLE ON OUR WEBSITE ARE PROTECTED BY INTELLECTUAL PROPERTY LAWS. YOU MAY NOT USE, MODIFY, REPRODUCE, OR DISTRIBUTE ANY CONTENT WITHOUT OUR EXPLICIT WRITTEN CONSENT.
+All content and materials available on our website are protected by intellectual property laws. You may not use, modify, reproduce, or distribute any content without our explicit written consent.
 
-### 5. **PRIVACY**
+### 5. Privacy
 
-OUR PRIVACY POLICY GOVERNS THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION. BY USING OUR SERVICES, YOU CONSENT TO THE TERMS OUTLINED IN OUR PRIVACY POLICY [CLICK HERE](HTTPS://DOCS.STNETRADIO.CO/PRIVACY-POLICY "OUR PRIVACY POLICY").
+Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [Click Here](https://docs.stnetradio.co/privacy-policy "Our Privacy Policy").
 
-### 6. **PAYMENT AND BILLING**
+### 6. Payment and Billing
 
-IF YOU MAKE A PAYMENT FOR OUR SERVICES, YOU AGREE TO PROVIDE ACCURATE AND COMPLETE PAYMENT INFORMATION. YOU ARE RESPONSIBLE FOR ANY FEES ASSOCIATED WITH YOUR USE OF OUR PAID SERVICES.
+If you make a payment for our services, you agree to provide accurate and complete payment information. You are responsible for any fees associated with your use of our paid services.
 
-### 7. **TERMINATION**
+### 7. RE:WRITE eBook Distribution Service
 
-WE RESERVE THE RIGHT TO TERMINATE OR SUSPEND YOUR ACCOUNT AND ACCESS TO OUR SERVICES AT OUR DISCRETION, WITHOUT NOTICE, FOR ANY REASON, INCLUDING A BREACH OF THESE TERMS.
+Our RE:WRITE service involves distributing eBooks to various platforms. By using this service, you agree to the following terms:
 
-### 8. **MODIFICATIONS TO SERVICES**
+- **Content Submission**: You are responsible for ensuring that the eBook content you provide complies with all applicable laws and does not infringe on the intellectual property rights of others.
 
-WE RESERVE THE RIGHT TO MODIFY OR DISCONTINUE OUR SERVICES AT ANY TIME, WITH OR WITHOUT NOTICE. WE SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY MODIFICATION, SUSPENSION, OR DISCONTINUATION OF OUR SERVICES.
+- **Revenue and Payment**: Revenue from eBook sales will be split with 90% going to the author and 10% to us. Any additional fees related to the service will not be collected from customers but will be charged to the author as specified.
 
-### 9. **DISCLAIMER OF WARRANTIES**
+- **Customer Payments**: Payments for eBook distribution services will be in accordance with the policies of the respective platforms.
 
-OUR SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. WE DO NOT WARRANT THAT OUR SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED.
+- **Rights and Licenses**: By submitting eBooks to our RE:WRITE service, you grant us a non-exclusive, royalty-free license to distribute your eBook on the platforms we support.
 
-### 10. **LIMITATION OF LIABILITY**
+- **Content Removal**: We reserve the right to remove or suspend any eBook from distribution if we believe it violates these Terms or applicable laws.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OUR SERVICES.
+- **Support and Disputes**: For any issues or disputes related to the RE:WRITE service, please contact our support team at [SUPPORT@STNETRADIO.CO](mailto:support@stnetradio.co).
 
-### 11. CONTACT US
-IF YOU HAVE ANY QUESTIONS OR CONCERNS ABOUT THESE TERMS, PLEASE CONTACT US AT [LEGAL@STNETRADIO.CO](MAILTO:LEGAL@STNETRADIO.CO).
+### 8. RE:WRITE Refund Policy
 
-*NOVEMBER 20, 2023*
+We apologize if you are dissatisfied or wish to request a refund for a purchase made through our RE:WRITE platform. Please follow these guidelines to request a refund:
+
+- **Purchases Directly from RE:WRITE**: If you have made a payment through RE:WRITE and received a PDF file for reading the book, please note that our policy does not permit refunds as you have full access to the content and we cannot enforce the deletion of the eBook file after download.
+
+- **Purchases through Other Channels**: If you made a purchase through other channels, please contact the customer service of the respective provider for further information.
+
+### 9. Termination
+
+We reserve the right to terminate or suspend your account and access to our services at our discretion, without notice, for any reason, including a breach of these Terms.
+
+### 10. Modifications to Services
+
+We reserve the right to modify or discontinue our services at any time, with or without notice. We shall not be liable to you or any third party for any modification, suspension, or discontinuation of our services.
+
+### 11. Disclaimer of Warranties
+
+Our services are provided "as is" without warranties of any kind, whether express or implied. We do not warrant that our services will be error-free or uninterrupted.
+
+### 12. Limitation of Liability
+
+To the maximum extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of our services.
+
+### 13. Regional Terms
+
+If you access our services from a region with specific laws or regulations, you are responsible for complying with local laws and regulations.
+
+### 14. Changes to Terms
+
+We reserve the right to update or amend these Terms at any time. We will notify you of such changes by posting the updated Terms on our website. Your continued use of our services after the effective date of any changes will constitute your acceptance of the revised Terms.
+
+### 15. Contact Us
+
+If you have any questions or concerns about these Terms, please contact us at [LEGAL@STNETRADIO.CO](mailto:legal@stnetradio.co).
+
+*July 22, 2024*
 
 **STNET RADIO**
