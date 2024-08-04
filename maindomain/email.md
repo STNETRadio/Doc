@@ -12,6 +12,7 @@ Using company email enhances the efficiency and professionalism of both internal
 ## Regular Email Access
  * Visit the Website: Go to email.stnetradio.co.
  * Log In: Enter your email and password.
-   * If you forget your password, please contact team@stnetradio.co.
+   * If you forget your password, please contact [team@stnetradio.co](mailto:tram@stnetradio.co).
+
 
 **Note:** This email service is provided through GoDaddy. Google Workspace access will be available after your first email login. You will receive an email for further [Google Workspace setup](/googleworks/signin.md).
