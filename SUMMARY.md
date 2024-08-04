@@ -6,6 +6,7 @@
 
 ## Working on the stnetradio.co website <a href="#maindomain" id="maindomain"></a>
 
+* [How to use STNET Radio's email](maindomain/email.md)
 * [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
 
 ## Operations through Google Workspace <a href="#googleworks" id="googleworks">
