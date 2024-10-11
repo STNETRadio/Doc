@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -13,7 +14,8 @@ layout:
 ---
 
 # Terms of Service
-*Effective Date: July 22, 2024*
+
+_Effective Date: July 22, 2024_
 
 Welcome to STNET RADIO! These Terms of Service ("Terms") govern your use of our website, services, and content, including our RE:WRITE eBook distribution service. By accessing or using our services, you agree to these Terms. If you do not agree, please refrain from using our services.
 
@@ -35,7 +37,7 @@ All content and materials available on our website are protected by intellectual
 
 ### 5. Privacy
 
-Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [Click Here](https://docs.stnetradio.co/privacy-policy "Our Privacy Policy").
+Our Privacy Policy governs the collection and use of your personal information. By using our services, you consent to the terms outlined in our Privacy Policy [Click Here](https://docs.stnetradio.co/privacy-policy).
 
 ### 6. Payment and Billing
 
@@ -45,25 +47,19 @@ If you make a payment for our services, you agree to provide accurate and comple
 
 Our RE:WRITE service involves distributing eBooks to various platforms. By using this service, you agree to the following terms:
 
-- **Content Submission**: You are responsible for ensuring that the eBook content you provide complies with all applicable laws and does not infringe on the intellectual property rights of others.
-
-- **Revenue and Payment**: Revenue from eBook sales will be split with 90% going to the author and 10% to us. Any additional fees related to the service will not be collected from customers but will be charged to the author as specified.
-
-- **Customer Payments**: Payments for eBook distribution services will be in accordance with the policies of the respective platforms.
-
-- **Rights and Licenses**: By submitting eBooks to our RE:WRITE service, you grant us a non-exclusive, royalty-free license to distribute your eBook on the platforms we support.
-
-- **Content Removal**: We reserve the right to remove or suspend any eBook from distribution if we believe it violates these Terms or applicable laws.
-
-- **Support and Disputes**: For any issues or disputes related to the RE:WRITE service, please contact our support team at [SUPPORT@STNETRADIO.CO](mailto:support@stnetradio.co).
+* **Content Submission**: You are responsible for ensuring that the eBook content you provide complies with all applicable laws and does not infringe on the intellectual property rights of others.
+* **Revenue and Payment**: Revenue from eBook sales will be split with 90% going to the author and 10% to us. Any additional fees related to the service will not be collected from customers but will be charged to the author as specified.
+* **Customer Payments**: Payments for eBook distribution services will be in accordance with the policies of the respective platforms.
+* **Rights and Licenses**: By submitting eBooks to our RE:WRITE service, you grant us a non-exclusive, royalty-free license to distribute your eBook on the platforms we support.
+* **Content Removal**: We reserve the right to remove or suspend any eBook from distribution if we believe it violates these Terms or applicable laws.
+* **Support and Disputes**: For any issues or disputes related to the RE:WRITE service, please contact our support team at [SUPPORT@STNETRADIO.CO](mailto:support@stnetradio.co).
 
 ### 8. RE:WRITE Refund Policy
 
 We apologize if you are dissatisfied or wish to request a refund for a purchase made through our RE:WRITE platform. Please follow these guidelines to request a refund:
 
-- **Purchases Directly from RE:WRITE**: If you have made a payment through RE:WRITE and received a PDF file for reading the book, please note that our policy does not permit refunds as you have full access to the content and we cannot enforce the deletion of the eBook file after download.
-
-- **Purchases through Other Channels**: If you made a purchase through other channels, please contact the customer service of the respective provider for further information.
+* **Purchases Directly from RE:WRITE**: If you have made a payment through RE:WRITE and received a PDF file for reading the book, please note that our policy does not permit refunds as you have full access to the content and we cannot enforce the deletion of the eBook file after download.
+* **Purchases through Other Channels**: If you made a purchase through other channels, please contact the customer service of the respective provider for further information.
 
 ### 9. Termination
 
@@ -93,6 +89,6 @@ We reserve the right to update or amend these Terms at any time. We will notify 
 
 If you have any questions or concerns about these Terms, please contact us at [LEGAL@STNETRADIO.CO](mailto:legal@stnetradio.co).
 
-*July 22, 2024*
+_July 22, 2024_
 
 **STNET RADIO**
