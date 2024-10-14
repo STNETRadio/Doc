@@ -51,7 +51,7 @@ For services that require STNET ID, you can create a new password by following t
 6. Enter the 6-digit verification code sent to your email.
 7. Create and confirm your new password.
 
-After registering successfully, you will be redirected to the passkey registration page. Follow the instructions to register by confirming on another device (if using office equipment). Once completed, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#undefined-6).
+After registering successfully, you will be redirected to the passkey registration page. Follow the instructions to register by confirming on another device (if using office equipment). Once completed, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#what-to-do-if-you-are-redirected-to-the-passkey-registration-page-again-after-registering).
 
 ## Troubleshooting
 
@@ -69,7 +69,7 @@ If you choose not to create a passkey, you can still use your account, but for f
 
 If you cannot log in because the email, username, or password is incorrect, please double-check for accuracy. If your email or username is correct, select “Forgot password” and follow the steps again.
 
-Once passkey registration is successful, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#undefined-6).
+Once passkey registration is successful, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#what-to-do-if-you-are-redirected-to-the-passkey-registration-page-again-after-registering).
 
 ### What to Do If Your Email or Username Is Not Found
 
