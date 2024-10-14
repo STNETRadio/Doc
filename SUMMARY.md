@@ -1,14 +1,18 @@
 # Table of contents
 
-* [Welcome to STNET Radio Doc](README.md)
+* [Welcome to STNET Radio Docs](README.md)
 * [Privacy Policy](privacy-policy.md)
 * [Terms of Service](terms-of-service.md)
 
-## Working on the stnetradio.co website <a href="#maindomain" id="maindomain"></a>
+## Using stnetradio.co for Work <a href="#maindomain" id="maindomain"></a>
 
-* [How to use STNET Radio's email](maindomain/email.md)
-* [Use l.stnetradio.co for Link Shortener](maindomain/Shortener.md)
+* [How to Use STNET Radio Email](maindomain/email.md)
+* [Using STNET Radio's Link Shortener Tool](maindomain/Shortener.md)
 
-## Operations through Google Workspace <a href="#googleworks" id="googleworks">
-* [How to use Google Workspace.](googleworks/signin.md)
-* [Requesting a New Password to Access Google Workspace](googleworks/reset.md)
+## Using STNET ID <a href="#stnetid" id="stnetid"></a>
+* [Getting Started with STNET ID Login](stnetid/movetostnetid.md)
+* [Devices Supporting Passkeys](stnetid/passkeysupported.md)
+
+## Getting Started with Google Workspace <a href="#googleworks" id="googleworks">
+* [How to Access Google Workspace](googleworks/signin.md)
+* [Request a New Password to Access Google Workspace](googleworks/reset.md)
