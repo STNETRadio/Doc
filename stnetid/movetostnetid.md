@@ -45,7 +45,7 @@ For services that require STNET ID, you can create a new password by following t
 
 1. Log into Google Accounts using your company email address (the system will automatically log you out after your first use).
 2. After entering your email, select “Next.”
-3. The system will take you to 'auth.stnetradio.co.' Don’t worry, continue with the following steps.
+3. The system will take you to `auth.stnetradio.co.` Don’t worry, continue with the following steps.
 4. Enter your email or username and proceed.
 5. Select “Forgot password” and follow the instructions to create a new password.
 6. Enter the 6-digit verification code sent to your email.
@@ -64,10 +64,8 @@ If you create a new password and the passkey registration page does not appear b
 3. Enter your email or username.
 4. Enter the new password you created and proceed.
 5. You will be able to create a new passkey. Proceed with passkey creation by confirming on another device (if using office equipment).
-
-If you choose not to create a passkey, you can still use your account, but for future logins, you will not be able to use Face ID, Touch ID, or biometric data for logging in. You will need to enter your password to access the system.
-
-If you cannot log in because the email, username, or password is incorrect, please double-check for accuracy. If your email or username is correct, select “Forgot password” and follow the steps again.
+   - If you choose not to create a passkey, you can still use your account, but for future logins, you will not be able to use Face ID, Touch ID, or biometric data for logging in. You will need to enter your password to access the system.
+   - If you cannot log in because the email, username, or password is incorrect, please double-check for accuracy. If your email or username is correct, select “Forgot password” and follow the steps again.
 
 Once passkey registration is successful, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#what-to-do-if-you-are-redirected-to-the-passkey-registration-page-again-after-registering).
 
@@ -80,7 +78,7 @@ If you encounter this issue, you must contact us immediately for data correction
 If you face this issue, you can fix it as follows:
 1. Close the passkey registration page and reopen the login page (go to Google.com and select “Sign in”).
 2. Enter your employee email and select “Next.”
-3. When you reach the 'auth.stnetradio.co' page, proceed with passkey authentication.
+3. When you reach the `auth.stnetradio.co` page, proceed with passkey authentication.
 4. If the option to proceed with a passkey does not appear, select the option to log in with an email or username. Your device will then show the passkey login option.
 5. If your device does not show the option to log in with a passkey, you can check supported devices [here](/stnetid/passkeysupported.md).
 
