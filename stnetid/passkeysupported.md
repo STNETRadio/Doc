@@ -2,8 +2,6 @@
 
 You can check if your device supports passkeys here.
 
-## Devices Supporting Passkeys
-
 ### Android Devices
 - Operating system version: Android 9 or higher
 - Supports Wi-Fi and Bluetooth
