@@ -57,8 +57,6 @@ For services requiring STNET ID, you can create a new password with the followin
 
 After successful registration, you will be redirected to the passkey registration page. Follow the instructions to register, confirming on another device (if using an office device). Once successful, you will be redirected to Google's page. If not, check the solution [here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
 
-<figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="หน้าลงทะเบียนพาสคีย์"><figcaption></figcaption></figure>
-
 ---
 
 ## Troubleshooting
