@@ -1,19 +1,20 @@
-# Email Usage at stnetradio.co
+# Receiving and Sending Emails through the stnetradio.co Domain
 
-Using company email enhances the efficiency and professionalism of both internal and external communication.
+Using the company's email helps enhance the efficiency and reliability of both internal and external communications.
 
-## First-Time Email Access
- * Check Your Personal Email: You will receive an email from us with a link to set your password.
- * Set Your Password:
-   * Click the link in the email.
-   * Create a new password (must include lowercase, uppercase, numbers, special characters, and be at least 8 characters long).
- * Access Your Email: After setting your password, you can access your company email immediately.
+## First-time Email Access
+
+- Check your personal email: You will receive an email from us with a link to set up your password.
+- Set your password:
+    - Click the link in the email.
+    - Create a new password (must include lowercase letters, uppercase letters, numbers, special characters, and be at least 8 characters long).
+- Access your email: After setting up your password, you can immediately access your company email.
 
 ## Regular Email Access
- * Visit the Website: Go to email.stnetradio.co.
- * Log In: Enter your email and password.
-   * If you forget your password, please contact [team@stnetradio.co](mailto:tram@stnetradio.co).
-   * Or submited request form at [request.stnetradio.co](https://request.stnetradio.co)
 
+- Visit the website: Go to [email.stnetradio.co](http://email.stnetradio.co/).
+- Log in: Enter your email and password.
+    - If you forget your password, please contact [team@stnetradio.co](mailto:team@stnetradio.co).
+    - Alternatively, you can fill out the password reset request form [here](https://tally.so/r/mBQedN) or visit the website [forget.stnetradio.co](https://forget.stnetradio.co/th).
 
-**Note:** This email service is provided through GoDaddy. Google Workspace access will be available after your first email login. You will receive an email for further [Google Workspace setup](/googleworks/signin.md).
+**Note:** This email service is provided via GoDaddy. For using Google Workspace, you will be able to access it after logging into your email for the first time. You will receive an email for [additional Google Workspace setup](/googleworks/signin.md).
