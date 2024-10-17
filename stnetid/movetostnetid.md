@@ -46,10 +46,14 @@ For services that require STNET ID, you can create a new password by following t
 1. Log into Google Accounts using your company email address (the system will automatically log you out after your first use).
 2. After entering your email, select “Next.”
 3. The system will take you to `auth.stnetradio.co.` Don’t worry, continue with the following steps.
+4. 
 <figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID"><figcaption></figcaption></figure>
+
 4. Enter your email or username and proceed.
 5. Select “Forgot password” and follow the instructions to create a new password.
+
 <figure><img src="../.gitbook/assets/STNETID-ResetPage.png" alt=""><figcaption></figcaption></figure>
+
 6. Enter the 6-digit verification code sent to your email.
 7. Create and confirm your new password.
 
