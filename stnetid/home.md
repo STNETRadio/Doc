@@ -34,7 +34,7 @@ For employees who wish to access the supported services, the first-time login st
 1. Go to the website [id.stnetradio.co](https://id.stnetradio.co).
 2. Enter the email address ending with @stnetradio.co, @team.stnetradio.co.
 3. Choose to continue, then enter your password. Your first password is your date of birth (Gregorian calendar). For example, if you were born on January 1, 1990, your password would be 1January1990 (the first letter of the month is capitalized).
-4. Register the passkey system [if you encounter issues, fix them here](#undefined-6).
+4. Register the passkey system [if you encounter issues, fix them here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
 5. Once logged in, select "Edit Information" and then change your password by following the steps.
 6. Done! You can now log in to the supported services.
 
@@ -46,19 +46,19 @@ For services requiring STNET ID, you can create a new password with the followin
 2. After entering the email, click "Next."
 3. You will be redirected to 'auth.stnetradio.co'. Don’t worry, just follow the next steps.
    
-   ![STNET ID Login Page](../.gitbook/assets/STNETID-LoginPage.png)
+<figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt=""><figcaption></figcaption></figure>
    
 4. Enter your email or username, then click "Continue."
 5. Select "Forgot Password" and follow the instructions to create a new password.
    
-   ![](../.gitbook/assets/STNETID-ResetPage.png)
+<figure><img src="../.gitbook/assets/STNETID-ResetPage.png" alt=""><figcaption></figcaption></figure>
    
 6. Enter the 6-digit confirmation code sent to your email.
 7. Create and confirm a new password.
 
-After successful registration, you will be redirected to the passkey registration page. Follow the instructions to register, confirming on another device (if using an office device). Once successful, you will be redirected to Google's page. If not, check the solution [here](#undefined-6).
+After successful registration, you will be redirected to the passkey registration page. Follow the instructions to register, confirming on another device (if using an office device). Once successful, you will be redirected to Google's page. If not, check the solution [here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
 
-![Passkey Registration Page](../.gitbook/assets/STNETID-Passkey.png)
+<figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="หน้าลงทะเบียนพาสคีย์"><figcaption></figcaption></figure>
 
 ---
 
@@ -77,7 +77,7 @@ If the passkey registration page does not appear but the password change is succ
    - If you choose not to create a passkey, you can still use the account, but when logging in again, you will not be able to use Face ID, Touch ID, or any physical identifiers to log in. You will need to enter a password to log in.
    - If you are unable to log in due to incorrect email, username, or password, please ensure the information is correct. If the email or username is correct, select "Forgot Password" and follow the steps again.
 
-Once the passkey registration is complete, you will be redirected to Google's page. If not, check the solution [here](#undefined-6).
+Once the passkey registration is complete, you will be redirected to Google's page. If not, check the solution [here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
 
 ### What to Do If No Information Is Found After Entering Email or Username
 
