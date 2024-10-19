@@ -57,7 +57,7 @@ For services that require STNET ID, you can create a new password following thes
 {% step %}
 ### Login
 
-Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to 'auth.stnetradio.co'—don’t worry, just follow the next steps.
+Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to `auth.stnetradio.co` —don’t worry, just follow the next steps.
 
 <figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID Login Page"><figcaption></figcaption></figure>
 {% endstep %}
@@ -71,7 +71,7 @@ Once you access STNET ID, enter your email or username, then click "continue." N
 
 Enter the 6-digit confirmation code sent to your email, then create and confirm your new password.
 
-After registration, you'll be redirected to the Passkey registration page. Follow the instructions to register by selecting to verify on another device (if using office equipment). Once successful, the system will take you to Google's page. If not, read the solution [here](#undefined-4).
+After registration, you'll be redirected to the Passkey registration page. Follow the instructions to register by selecting to verify on another device (if using office equipment). Once successful, the system will take you to Google's page. If not, read the solution [here](#if-the-passkey-registration-page-does-not-appear-but-shows-the-password-change-success-page).
 
 <figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="Passkey Registration Page"><figcaption></figcaption></figure>
 {% endstep %}
@@ -93,36 +93,26 @@ Simple troubleshooting methods from us. You can read more [here]. If you're unab
 
 If you have created a password but do not see the Passkey registration page, follow these steps:
 
-{% stepper %}
-{% step %}
-### Return to the Google Account login page
+### 1. Return to the Google Account login page
 
 You need to return to the main Google Account page to log in again.
-{% endstep %}
 
-{% step %}
-### Log in again
+### 2. Log in again
 
 You need to log in again using your @stnetradio.co or @team.stnetradio.co email address to log in using STNET ID.
-{% endstep %}
 
-{% step %}
-### Log in to STNET ID
+### 3. Log in to STNET ID
 
 The system will then redirect you to STNET ID. Enter your email and the newly created password, then click "continue." The system will take you to the Passkey creation page.
-{% endstep %}
 
-{% step %}
-### Create a Passkey
+### 4. Create a Passkey
 
 You will be able to create a new Passkey. Choose to create a Passkey and continue by verifying on another device (if using office equipment).
 
   - If you choose not to create a Passkey, you can still use your account. However, when logging in again, you will not be able to use Face ID, Touch ID, or physical authentication for login. You will need to enter your password instead.
   - If unable to log in due to incorrect email, username, or password, please check to ensure correctness. If the email or username is correct, select "Forgot password" and follow the steps again.
 
-After successful Passkey registration, the system will take you to Google's page. If not, read the solution [here](#undefined-4).
-{% endstep %}
-{% endstepper %}
+After successful Passkey registration, the system will take you to Google's page. If not, read the solution [here](#if-passkey-registration-returns-to-the-registration-page-again-what-should-you-do).
 
 </details>
 
@@ -140,30 +130,20 @@ If you encounter this issue, you will need to contact us immediately to update t
 
 If you face this issue, you can solve it as follows:
 
-{% stepper %}
-{% step %}
-### Close the registration page
+### 1. Close the registration page
 
 Please close the registration page and go to [google.com](https://google.com) again to log in.
-{% endstep %}
 
-{% step %}
-### Log in
+### 2. Log in
 
 Log in again by entering your @stnetradio or @team.stnetradio.co email address. The system will take you to **STNET ID**.
-{% endstep %}
 
-{% step %}
-### Continue with the Passkey
+### 3. Continue with the Passkey
 
 Once on this page, select to continue with the Passkey. If the “Continue with Passkey” button does not appear, click on the email field, and the system will show the option to log in using a Passkey via your operating system. If not found, you can check the supported operating systems and devices [here](/stnetid/passkeysupported.md).
-{% endstep %}
 
-{% step %}
-### Completion
+### 4. Completion
 
-{% endstep %}
-{% endstepper %}
 
 </details>
 
