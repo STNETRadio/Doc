@@ -1,93 +1,180 @@
 ---
-layout:  
-  title:  
-    visible: true  
-  description:  
-    visible: true  
-  tableOfContents:  
-    visible: true  
-  outline:  
-    visible: true  
-  pagination:  
-    visible: false  
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# What is STNET ID? And How to Access It
+# What is STNET ID? And how to use it
 
-It is a Single Sign-On (SSO) system for accessing various services conveniently under one login. We call this system "STNET ID." Read the additional announcement [here](/stnetid/movetostnetid.md).
+STNET ID is a Single Sign-On (SSO) system for logging into various services of the company. This system is called "STNET ID." Read more announcements [here](/stnetid/movetostnetid.md).
 
 ## What is STNET ID?
 
-STNET ID is a system that employees and affiliates can use to update personal information and access related services. The purpose of this system is to facilitate and enhance the security of login procedures. You can log in at [id.stnetradio.co](https://id.stnetradio.co) (for stnetradio.co domain or STNET Radio employees only, it is not available yet; please wait for further announcements).
+STNET ID is a system that employees and associates can use to update personal information and access work-related services. The purpose of this system is to provide convenience and enhance security when logging in. You can access the system at [id.stnetradio.co](https://id.stnetradio.co) (only for the stnetradio.co domain or STNET Radio employees, not yet available; please wait for further announcements).
 
 ---
 
-## How to Access for Employees
+## Login Instructions for Employees
 
-Steps to access email for the first time for employees who just started using STNET ID.
+First-time login instructions for new employees using STNET ID.
 
-### First-time Login (For Employees Who Received Accounts After October 15, 2024)
+### First-time login instructions (for employees with accounts created after October 15, 2024)
 
-For employees who wish to access the supported services, the first-time login steps are available [here](/stnetid/service.md).
+For employees who want to access various services that we support, [you can follow the first-time login instructions here](/stnetid/service.md).
 
-1. Go to the website [id.stnetradio.co](https://id.stnetradio.co).
-2. Enter the email address ending with @stnetradio.co, @team.stnetradio.co.
-3. Choose to continue, then enter your password. Your first password is your date of birth (Gregorian calendar). For example, if you were born on January 1, 1990, your password would be 1January1990 (the first letter of the month is capitalized).
-4. Register the passkey system [if you encounter issues, fix them here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
-5. Once logged in, select "Edit Information" and then change your password by following the steps.
-6. Done! You can now log in to the supported services.
+{% stepper %}
+{% step %}
+### Login
 
-### How to Create a New Password for First-time Login (For Employees Who Received Accounts Before October 20, 2024)
+Go to the website [id.stnetradio.co](https://id.stnetradio.co), enter your email, click "continue," and then enter your password. Your first-time password is your date of birth (in the Gregorian calendar). For example, if your birthday is January 1, 1990, your password is 1January1990 (with the first letter of the month in uppercase).
+{% endstep %}
 
-For services requiring STNET ID, you can create a new password with the following steps:
+{% step %}
+### Start changing your password
 
-1. Log in to Google Accounts using the company email (you will be automatically logged out after the first usage day).
-2. After entering the email, click "Next."
-3. You will be redirected to 'auth.stnetradio.co'. Don’t worry, just follow the next steps.
-   
-<figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt=""><figcaption></figcaption></figure>
-   
-4. Enter your email or username, then click "Continue."
-5. Select "Forgot Password" and follow the instructions to create a new password.
-   
+After logging in, select to edit your information, then choose to change your password, and follow the steps.
+{% endstep %}
+
+{% step %}
+### Completion
+
+{% endstep %}
+{% endstepper %}
+
+### How to create a new password for the first login (for employees with accounts before October 20, 2024)
+
+For services that require STNET ID, you can create a new password following these steps:
+
+{% stepper %}
+{% step %}
+### Login
+
+Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to 'auth.stnetradio.co'—don’t worry, just follow the next steps.
+
+<figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID Login Page"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Change Password
+
+Once you access STNET ID, enter your email or username, then click "continue." Next, select “Forgot password” and follow the instructions to create a new password.
+
 <figure><img src="../.gitbook/assets/STNETID-ResetPage.png" alt=""><figcaption></figcaption></figure>
-   
-6. Enter the 6-digit confirmation code sent to your email.
-7. Create and confirm a new password.
 
-After successful registration, you will be redirected to the passkey registration page. Follow the instructions to register, confirming on another device (if using an office device). Once successful, you will be redirected to Google's page. If not, check the solution [here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
+Enter the 6-digit confirmation code sent to your email, then create and confirm your new password.
 
+After registration, you'll be redirected to the Passkey registration page. Follow the instructions to register by selecting to verify on another device (if using office equipment). Once successful, the system will take you to Google's page. If not, read the solution [here](#undefined-4).
+
+<figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="Passkey Registration Page"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Completion
+
+{% endstep %}
+{% endstepper %}
 ---
 
 ## Troubleshooting
 
-### If the Passkey Registration Page Does Not Appear After Password Creation
+Simple troubleshooting methods from us. You can read more [here]. If you're unable to solve the issue, please contact us at [team@stnetradio.co](mailto:team@stnetradio.co).
 
-If the passkey registration page does not appear but the password change is successful, follow these steps:
+<details>
 
-1. Return to the Google Account login page.
-2. Enter your email and click "Next."
-3. Enter your email or username.
-4. Enter the newly created password and click "Continue."
-5. You will be able to create a new passkey. Please proceed by confirming on another device (if using an office device).
+<summary>If the Passkey registration page does not appear but shows the password change success page</summary>
 
-   - If you choose not to create a passkey, you can still use the account, but when logging in again, you will not be able to use Face ID, Touch ID, or any physical identifiers to log in. You will need to enter a password to log in.
-   - If you are unable to log in due to incorrect email, username, or password, please ensure the information is correct. If the email or username is correct, select "Forgot Password" and follow the steps again.
+If you have created a password but do not see the Passkey registration page, follow these steps:
 
-Once the passkey registration is complete, you will be redirected to Google's page. If not, check the solution [here](#what-to-do-if-after-registering-the-passkey-it-returns-to-the-registration-page-again).
+{% stepper %}
+{% step %}
+### Return to the Google Account login page
 
-### What to Do If No Information Is Found After Entering Email or Username
+You need to return to the main Google Account page to log in again.
+{% endstep %}
 
-If you encounter this issue, you will need to contact us to resolve the issue immediately. Contact us at [team@stnetradio.co](mailto:team@stnetradio.co).
+{% step %}
+### Log in again
 
-### What to Do If After Registering the Passkey It Returns to the Registration Page Again?
+You need to log in again using your @stnetradio.co or @team.stnetradio.co email address to log in using STNET ID.
+{% endstep %}
 
-If you face this issue, you can fix it by following these steps:
+{% step %}
+### Log in to STNET ID
 
-1. Close the passkey registration page and open the login page again (go to Google.com and select "Sign In").
-2. Enter the employee's email and click "Next."
-3. When you reach 'auth.stnetradio.co', proceed with the passkey.
-4. If the option to continue with the passkey does not appear, select the option to log in with email or username, then your device will show the passkey login option.
-5. If your device does not show the passkey login option, you can check the supported devices [here](/stnetid/passkeysupported.md).
+The system will then redirect you to STNET ID. Enter your email and the newly created password, then click "continue." The system will take you to the Passkey creation page.
+{% endstep %}
 
-If you encounter registration issues or have further questions, contact us at: [team@stnetradio.co](mailto:team@stnetradio.co).
+{% step %}
+### Create a Passkey
+
+You will be able to create a new Passkey. Choose to create a Passkey and continue by verifying on another device (if using office equipment).
+
+  - If you choose not to create a Passkey, you can still use your account. However, when logging in again, you will not be able to use Face ID, Touch ID, or physical authentication for login. You will need to enter your password instead.
+  - If unable to log in due to incorrect email, username, or password, please check to ensure correctness. If the email or username is correct, select "Forgot password" and follow the steps again.
+
+After successful Passkey registration, the system will take you to Google's page. If not, read the solution [here](#undefined-4).
+{% endstep %}
+{% endstepper %}
+
+</details>
+
+<details>
+
+<summary>If entering your email or username shows no data found, what should you do?</summary>
+
+If you encounter this issue, you will need to contact us immediately to update the information. Contact us at [team@stnetradio.co](mailto:team@stnetradio.co) or submit a request at [request.stnetradio.co](https://request.stnetradio.co), select "Request to update information from the database."
+
+</details>
+
+<details>
+
+<summary>If Passkey registration returns to the registration page again, what should you do?</summary>
+
+If you face this issue, you can solve it as follows:
+
+{% stepper %}
+{% step %}
+### Close the registration page
+
+Please close the registration page and go to [google.com](https://google.com) again to log in.
+{% endstep %}
+
+{% step %}
+### Log in
+
+Log in again by entering your @stnetradio or @team.stnetradio.co email address. The system will take you to **STNET ID**.
+{% endstep %}
+
+{% step %}
+### Continue with the Passkey
+
+Once on this page, select to continue with the Passkey. If the “Continue with Passkey” button does not appear, click on the email field, and the system will show the option to log in using a Passkey via your operating system. If not found, you can check the supported operating systems and devices [here](/stnetid/passkeysupported.md).
+{% endstep %}
+
+{% step %}
+### Completion
+
+{% endstep %}
+{% endstepper %}
+
+</details>
+
+<details>
+
+<summary>If you see the "Google Workspace - Invalid Email" page and cannot log in</summary>
+
+We have a simple solution: go to [help.stnetradio.co/logout](https://help.stnetradio.co/logout) on the website where the message appears, then log in as usual using your email or Passkey instead.
+
+{% embed url="https://www.youtube.com/watch?v=ELoW080BNP0" %}
+
+</details>
+
+If you encounter issues with registration or have further inquiries, feel free to contact us at: [team@stnetradio.co](mailto:team@stnetradio.co).
