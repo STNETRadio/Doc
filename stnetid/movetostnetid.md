@@ -39,55 +39,112 @@ The following services do not require a new password and do not use the STNET ID
 - Slack
 - And others
 
-## How to Create a New Password
+### How to create a new password for the first login 
 
-For services that require STNET ID, you can create a new password by following these steps:
+For services that require STNET ID, you can create a new password following these steps:
 
-1. Log into Google Accounts using your company email address (the system will automatically log you out after your first use).
-2. After entering your email, select “Next.”
-3. The system will take you to `auth.stnetradio.co.` Don’t worry, continue with the following steps.
-4. 
-<figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID"><figcaption></figcaption></figure>
+{% stepper %}
+{% step %}
+### Login
 
-4. Enter your email or username and proceed.
-5. Select “Forgot password” and follow the instructions to create a new password.
+Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to `auth.stnetradio.co` —don’t worry, just follow the next steps.
+
+<figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID Login Page"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Change Password
+
+Once you access STNET ID, enter your email or username, then click "continue." Next, select “Forgot password” and follow the instructions to create a new password.
 
 <figure><img src="../.gitbook/assets/STNETID-ResetPage.png" alt=""><figcaption></figcaption></figure>
 
-6. Enter the 6-digit verification code sent to your email.
-7. Create and confirm your new password.
+Enter the 6-digit confirmation code sent to your email, then create and confirm your new password.
 
-After registering successfully, you will be redirected to the passkey registration page. Follow the instructions to register by confirming on another device (if using office equipment). Once completed, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#what-to-do-if-you-are-redirected-to-the-passkey-registration-page-again-after-registering).
+After registration, you'll be redirected to the Passkey registration page. Follow the instructions to register by selecting to verify on another device (if using office equipment). Once successful, the system will take you to Google's page. If not, read the solution [here](#if-the-passkey-registration-page-does-not-appear-but-shows-the-password-change-success-page).
 
-<figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="PassKey Register"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/STNETID-Passkey.png" alt="Passkey Registration Page"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Completion
+
+{% endstep %}
+{% endstepper %}
+---
 
 ## Troubleshooting
 
-### If the Passkey Registration Page Does Not Appear but Shows a Password Change Confirmation
+Simple troubleshooting methods from us. You can read more [here]. If you're unable to solve the issue, please contact us at [team@stnetradio.co](mailto:team@stnetradio.co).
 
-If you create a new password and the passkey registration page does not appear but instead shows a password change confirmation, please follow these steps:
+<details>
 
-1. Go back to the Google Account login page.
-2. Enter your email and select “Next.”
-3. Enter your email or username.
-4. Enter the new password you created and proceed.
-5. You will be able to create a new passkey. Proceed with passkey creation by confirming on another device (if using office equipment).
-   - If you choose not to create a passkey, you can still use your account, but for future logins, you will not be able to use Face ID, Touch ID, or biometric data for logging in. You will need to enter your password to access the system.
-   - If you cannot log in because the email, username, or password is incorrect, please double-check for accuracy. If your email or username is correct, select “Forgot password” and follow the steps again.
+<summary>If the Passkey registration page does not appear but shows the password change success page</summary>
 
-Once passkey registration is successful, the system will take you to the Google page. If not, refer to the troubleshooting guide [here](#what-to-do-if-you-are-redirected-to-the-passkey-registration-page-again-after-registering).
+If you have created a password but do not see the Passkey registration page, follow these steps:
 
-### What to Do If Your Email or Username Is Not Found
+### 1. Return to the Google Account login page
 
-If you encounter this issue, you must contact us immediately for data correction. Contact us at [team@stnetradio.co](mailto:team@stnetradio.co).
+You need to return to the main Google Account page to log in again.
 
-### What to Do If You Are Redirected to the Passkey Registration Page Again After Registering
+### 2. Log in again
 
-If you face this issue, you can fix it as follows:
-1. Close the passkey registration page and reopen the login page (go to Google.com and select “Sign in”).
-2. Enter your employee email and select “Next.”
-3. When you reach the `auth.stnetradio.co` page, proceed with passkey authentication.
-4. If the option to proceed with a passkey does not appear, select the option to log in with an email or username. Your device will then show the passkey login option.
-5. If your device does not show the option to log in with a passkey, you can check supported devices [here](/stnetid/passkeysupported.md).
+You need to log in again using your @stnetradio.co or @team.stnetradio.co email address to log in using STNET ID.
 
-If you encounter registration issues or have any further questions, please contact us at: [team@stnetradio.co](mailto:team@stnetradio.co).
+### 3. Log in to STNET ID
+
+The system will then redirect you to STNET ID. Enter your email and the newly created password, then click "continue." The system will take you to the Passkey creation page.
+
+### 4. Create a Passkey
+
+You will be able to create a new Passkey. Choose to create a Passkey and continue by verifying on another device (if using office equipment).
+
+  - If you choose not to create a Passkey, you can still use your account. However, when logging in again, you will not be able to use Face ID, Touch ID, or physical authentication for login. You will need to enter your password instead.
+  - If unable to log in due to incorrect email, username, or password, please check to ensure correctness. If the email or username is correct, select "Forgot password" and follow the steps again.
+
+After successful Passkey registration, the system will take you to Google's page. If not, read the solution [here](#if-passkey-registration-returns-to-the-registration-page-again-what-should-you-do).
+
+</details>
+
+<details>
+
+<summary>If entering your email or username shows no data found, what should you do?</summary>
+
+If you encounter this issue, you will need to contact us immediately to update the information. Contact us at [team@stnetradio.co](mailto:team@stnetradio.co) or submit a request at [request.stnetradio.co](https://request.stnetradio.co), select "Request to update information from the database."
+
+</details>
+
+<details>
+
+<summary>If Passkey registration returns to the registration page again, what should you do?</summary>
+
+If you face this issue, you can solve it as follows:
+
+### 1. Close the registration page
+
+Please close the registration page and go to [google.com](https://google.com) again to log in.
+
+### 2. Log in
+
+Log in again by entering your @stnetradio or @team.stnetradio.co email address. The system will take you to **STNET ID**.
+
+### 3. Continue with the Passkey
+
+Once on this page, select to continue with the Passkey. If the “Continue with Passkey” button does not appear, click on the email field, and the system will show the option to log in using a Passkey via your operating system. If not found, you can check the supported operating systems and devices [here](/stnetid/passkeysupported.md).
+
+### 4. Completion
+
+
+</details>
+
+<details>
+
+<summary>If you see the "Google Workspace - Invalid Email" page and cannot log in</summary>
+
+We have a simple solution: go to [help.stnetradio.co/logout](https://help.stnetradio.co/logout) on the website where the message appears, then log in as usual using your email or Passkey instead.
+
+{% embed url="https://www.youtube.com/watch?v=ELoW080BNP0" %}
+
+</details>
+
+If you encounter issues with registration or have further inquiries, feel free to contact us at: [team@stnetradio.co](mailto:team@stnetradio.co).
