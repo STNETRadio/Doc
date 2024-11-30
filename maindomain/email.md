@@ -15,6 +15,6 @@ Using the company's email helps enhance the efficiency and reliability of both i
 - Visit the website: Go to [email.stnetradio.com](http://email.stnetradio.com/).
 - Log in: Enter your email and password.
     - If you forget your password, please contact [team@stnetradio.com](mailto:team@stnetradio.com).
-    - Alternatively, you can fill out the password reset request form [here](https://tally.so/r/mBQedN) or visit the website [forget.stnetradio.com](https://forget.stnetradio.comm/).
+    - Alternatively, you can fill out the password reset request form [here](https://tally.so/r/mBQedN) or visit the website [forget.stnetradio.com](https://forget.stnetradio.com/).
 
 **Note:** This email service is provided via GoDaddy. For using Google Workspace, you will be able to access it after logging into your email for the first time. You will receive an email for [additional Google Workspace setup](/googleworks/signin.md).
