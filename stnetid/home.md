@@ -18,7 +18,7 @@ STNET ID is a Single Sign-On (SSO) system for logging into various services of t
 
 ## What is STNET ID?
 
-STNET ID is a system that employees and associates can use to update personal information and access work-related services. The purpose of this system is to provide convenience and enhance security when logging in. You can access the system at [id.stnetradio.co](https://id.stnetradio.co) (only for the stnetradio.co domain or STNET Radio employees, not yet available; please wait for further announcements).
+STNET ID is a system that employees and associates can use to update personal information and access work-related services. The purpose of this system is to provide convenience and enhance security when logging in. You can access the system at [id.stnetradio.com](https://id.stnetradio.com) (only for the stnetradio.com domain or STNET Radio employees, not yet available; please wait for further announcements).
 
 ---
 
@@ -34,7 +34,7 @@ For employees who want to access various services that we support, [you can foll
 {% step %}
 ### Login
 
-Go to the website [id.stnetradio.co](https://id.stnetradio.co), enter your email, click "continue," and then enter your password. Your first-time password is your date of birth (in the Gregorian calendar). For example, if your birthday is January 1, 1990, your password is 1January1990 (with the first letter of the month in uppercase).
+Go to the website [id.stnetradio.com](https://id.stnetradio.com), enter your email, click "continue," and then enter your password. Your first-time password is your date of birth (in the Gregorian calendar). For example, if your birthday is January 1, 1990, your password is 1January1990 (with the first letter of the month in uppercase).
 {% endstep %}
 
 {% step %}
@@ -57,7 +57,7 @@ For services that require STNET ID, you can create a new password following thes
 {% step %}
 ### Login
 
-Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to `auth.stnetradio.co` —don’t worry, just follow the next steps.
+Log in to Google Accounts using your company email address (the system will log you out immediately after the first use). After entering your email, click "Next." The system will take you to `auth.stnetradio.com` —don’t worry, just follow the next steps.
 
 <figure><img src="../.gitbook/assets/STNETID-LoginPage.png" alt="STNET ID Login Page"><figcaption></figcaption></figure>
 {% endstep %}
@@ -85,7 +85,7 @@ After registration, you'll be redirected to the Passkey registration page. Follo
 
 ## Troubleshooting
 
-Simple troubleshooting methods from us. You can read more [here]. If you're unable to solve the issue, please contact us at [team@stnetradio.co](mailto:team@stnetradio.co).
+Simple troubleshooting methods from us. You can read more [here]. If you're unable to solve the issue, please contact us at [team@stnetradio.com](mailto:team@stnetradio.com).
 
 <details>
 
@@ -99,7 +99,7 @@ You need to return to the main Google Account page to log in again.
 
 ### 2. Log in again
 
-You need to log in again using your @stnetradio.co or @team.stnetradio.co email address to log in using STNET ID.
+You need to log in again using your @stnetradio.com or @team.stnetradio.com email address to log in using STNET ID.
 
 ### 3. Log in to STNET ID
 
@@ -120,7 +120,7 @@ After successful Passkey registration, the system will take you to Google's page
 
 <summary>If entering your email or username shows no data found, what should you do?</summary>
 
-If you encounter this issue, you will need to contact us immediately to update the information. Contact us at [team@stnetradio.co](mailto:team@stnetradio.co) or submit a request at [request.stnetradio.co](https://request.stnetradio.co), select "Request to update information from the database."
+If you encounter this issue, you will need to contact us immediately to update the information. Contact us at [team@stnetradio.com](mailto:team@stnetradio.com) or submit a request at [request.stnetradio.com](https://request.stnetradio.com), select "Request to update information from the database."
 
 </details>
 
@@ -151,10 +151,10 @@ Once on this page, select to continue with the Passkey. If the “Continue with 
 
 <summary>If you see the "Google Workspace - Invalid Email" page and cannot log in</summary>
 
-We have a simple solution: go to [help.stnetradio.co/logout](https://help.stnetradio.co/logout) on the website where the message appears, then log in as usual using your email or Passkey instead.
+We have a simple solution: go to [help.stnetradio.co/logout](https://help.stnetradio.com/logout) on the website where the message appears, then log in as usual using your email or Passkey instead.
 
 {% embed url="https://www.youtube.com/watch?v=ELoW080BNP0" %}
 
 </details>
 
-If you encounter issues with registration or have further inquiries, feel free to contact us at: [team@stnetradio.co](mailto:team@stnetradio.co).
+If you encounter issues with registration or have further inquiries, feel free to contact us at: [team@stnetradio.com](mailto:team@stnetradio.com).

@@ -33,6 +33,7 @@ To utilize the link shortener service, please follow these steps:
 4. Select GoShort.
 5. Share the shortened link using `l.stnetradio.co`, `go.stnetradio.co`, or `to.stnetradio.co`.
 
+or go to [request.stnetradio.com](https://request.stnetradio.com)
 ***
 
 ## Terms of Use for STNET Radio Subdomains for the Link Shortener Tool
