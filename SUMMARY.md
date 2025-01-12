@@ -22,5 +22,5 @@
 
 ## STNET Radio Creator <a href="creator" id="creator"></a>
 
-* [About STNET Radio Entertainment](creator/introduce.md)
+* [About STNET Radio Entertainment](creator/about.md)
 * [Terms and Conditions for Video Production and Distribution on Online Platforms](creator/video-terms.md)
